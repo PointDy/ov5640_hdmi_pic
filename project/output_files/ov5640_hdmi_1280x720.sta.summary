@@ -1,0 +1,293 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ov5640_pclk'
+Slack : -4.964
+TNS   : -119.988
+
+Type  : Slow 1200mV 85C Model Setup 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.497
+TNS   : -8.470
+
+Type  : Slow 1200mV 85C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.265
+TNS   : -15.116
+
+Type  : Slow 1200mV 85C Model Setup 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -2.474
+TNS   : -70.707
+
+Type  : Slow 1200mV 85C Model Setup 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.586
+TNS   : -6.219
+
+Type  : Slow 1200mV 85C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.146
+TNS   : -0.146
+
+Type  : Slow 1200mV 85C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.205
+TNS   : -0.205
+
+Type  : Slow 1200mV 85C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.432
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : 0.449
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ov5640_pclk'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -3.698
+TNS   : -3.698
+
+Type  : Slow 1200mV 85C Model Recovery 'ov5640_pclk'
+Slack : -3.462
+TNS   : -109.692
+
+Type  : Slow 1200mV 85C Model Removal 'ov5640_pclk'
+Slack : 2.262
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 2.898
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ov5640_pclk'
+Slack : -3.201
+TNS   : -127.783
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -1.487
+TNS   : -56.506
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 0.420
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.695
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 6.450
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.895
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ov5640_pclk'
+Slack : -4.613
+TNS   : -107.280
+
+Type  : Slow 1200mV 0C Model Setup 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.299
+TNS   : -8.137
+
+Type  : Slow 1200mV 0C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.854
+TNS   : -13.320
+
+Type  : Slow 1200mV 0C Model Setup 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -2.249
+TNS   : -64.062
+
+Type  : Slow 1200mV 0C Model Setup 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.441
+TNS   : -4.046
+
+Type  : Slow 1200mV 0C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.046
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.317
+TNS   : -0.317
+
+Type  : Slow 1200mV 0C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : 0.388
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ov5640_pclk'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -3.266
+TNS   : -3.266
+
+Type  : Slow 1200mV 0C Model Recovery 'ov5640_pclk'
+Slack : -3.136
+TNS   : -99.144
+
+Type  : Slow 1200mV 0C Model Removal 'ov5640_pclk'
+Slack : 2.197
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 2.616
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ov5640_pclk'
+Slack : -3.201
+TNS   : -127.783
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -1.487
+TNS   : -56.506
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 0.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.664
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 6.450
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.906
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.718
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.999
+TNS   : -3.744
+
+Type  : Fast 1200mV 0C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.963
+TNS   : -6.148
+
+Type  : Fast 1200mV 0C Model Setup 'ov5640_pclk'
+Slack : -1.641
+TNS   : -22.272
+
+Type  : Fast 1200mV 0C Model Setup 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -0.446
+TNS   : -9.894
+
+Type  : Fast 1200mV 0C Model Setup 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.045
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.550
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.050
+TNS   : -0.050
+
+Type  : Fast 1200mV 0C Model Hold 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.067
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ov5640_pclk'
+Slack : 0.167
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -1.437
+TNS   : -1.437
+
+Type  : Fast 1200mV 0C Model Recovery 'ov5640_pclk'
+Slack : -1.423
+TNS   : -44.756
+
+Type  : Fast 1200mV 0C Model Removal 'ov5640_pclk'
+Slack : 0.879
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ov5640_pclk'
+Slack : -3.000
+TNS   : -85.342
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -1.000
+TNS   : -38.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ov5640_top:ov5640_top_inst|i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.692
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.733
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 6.468
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.594
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_gen_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.796
+TNS   : 0.000
+
+------------------------------------------------------------
