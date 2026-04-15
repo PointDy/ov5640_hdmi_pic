@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Apr 15 13:49:00 2026
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : eth_imp
+Top-level Entity Name : eth_imp
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 1,848 / 10,320 ( 18 % )
+    Total combinational functions : 1,785 / 10,320 ( 17 % )
+    Dedicated logic registers : 798 / 10,320 ( 8 % )
+Total registers : 798
+Total pins : 64 / 180 ( 36 % )
+Total virtual pins : 0
+Total memory bits : 49,152 / 423,936 ( 12 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

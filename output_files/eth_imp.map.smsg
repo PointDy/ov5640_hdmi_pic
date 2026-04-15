@@ -1,0 +1,17 @@
+Info (10281): Verilog HDL Declaration information at sdram_write.v(10): object "wr_data" differs only in case from object "WR_DATA" in the same scope File: D:/c/bishe/rtl/sdram/sdram_write.v Line: 10
+Info (10281): Verilog HDL Declaration information at sdram_write.v(14): object "wr_end" differs only in case from object "WR_END" in the same scope File: D:/c/bishe/rtl/sdram/sdram_write.v Line: 14
+Info (10281): Verilog HDL Declaration information at sdram_read.v(10): object "rd_data" differs only in case from object "RD_DATA" in the same scope File: D:/c/bishe/rtl/sdram/sdram_read.v Line: 10
+Info (10281): Verilog HDL Declaration information at sdram_read.v(14): object "rd_end" differs only in case from object "RD_END" in the same scope File: D:/c/bishe/rtl/sdram/sdram_read.v Line: 14
+Info (10281): Verilog HDL Declaration information at sdram_init.v(13): object "init_end" differs only in case from object "INIT_END" in the same scope File: D:/c/bishe/rtl/sdram/sdram_init.v Line: 13
+Warning (10273): Verilog HDL warning at sdram_arbit.v(159): extended using "x" or "z" File: D:/c/bishe/rtl/sdram/sdram_arbit.v Line: 159
+Info (10281): Verilog HDL Declaration information at sdram_a_ref.v(15): object "aref_end" differs only in case from object "AREF_END" in the same scope File: D:/c/bishe/rtl/sdram/sdram_a_ref.v Line: 15
+Info (10281): Verilog HDL Declaration information at ov5640_cfg.v(19): object "REG_NUM" differs only in case from object "reg_num" in the same scope File: D:/c/bishe/rtl/ov5640/ov5640_cfg.v Line: 19
+Info (10281): Verilog HDL Declaration information at i2c_ctrl.v(17): object "wr_data" differs only in case from object "WR_DATA" in the same scope File: D:/c/bishe/rtl/ov5640/i2c_ctrl.v Line: 17
+Info (10281): Verilog HDL Declaration information at i2c_ctrl.v(21): object "rd_data" differs only in case from object "RD_DATA" in the same scope File: D:/c/bishe/rtl/ov5640/i2c_ctrl.v Line: 21
+Info (10281): Verilog HDL Declaration information at ip_send.v(22): object "send_data" differs only in case from object "SEND_DATA" in the same scope File: D:/c/bishe/rtl/eth_udp/ip_send.v Line: 22
+Info (10281): Verilog HDL Declaration information at ip_send.v(41): object "PACKET_HEAD" differs only in case from object "packet_head" in the same scope File: D:/c/bishe/rtl/eth_udp/ip_send.v Line: 41
+Info (10281): Verilog HDL Declaration information at ip_send.v(42): object "ETH_HEAD" differs only in case from object "eth_head" in the same scope File: D:/c/bishe/rtl/eth_udp/ip_send.v Line: 42
+Info (10281): Verilog HDL Declaration information at ip_send.v(43): object "IP_UDP_HEAD" differs only in case from object "ip_udp_head" in the same scope File: D:/c/bishe/rtl/eth_udp/ip_send.v Line: 43
+Info (10281): Verilog HDL Declaration information at ip_send.v(40): object "CHECK_SUM" differs only in case from object "check_sum" in the same scope File: D:/c/bishe/rtl/eth_udp/ip_send.v Line: 40
+Info (10281): Verilog HDL Declaration information at ip_receive.v(17): object "rec_data" differs only in case from object "REC_DATA" in the same scope File: D:/c/bishe/rtl/eth_udp/ip_receive.v Line: 17
+Info (10281): Verilog HDL Declaration information at ip_receive.v(18): object "rec_end" differs only in case from object "REC_END" in the same scope File: D:/c/bishe/rtl/eth_udp/ip_receive.v Line: 18
